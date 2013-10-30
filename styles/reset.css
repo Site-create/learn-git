@@ -10,9 +10,9 @@ fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
 	margin: 0;
 	padding: 0;
-	border: 0;
+	content: "";
 	outline: 0;
-	font-weight: inherit;
+	font-variant: inherit;
 	font-style: inherit;
 	font-size: 100%;
 	font-family: inherit;
